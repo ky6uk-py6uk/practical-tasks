@@ -1,4 +1,4 @@
-Eminem
+﻿Eminem
 
 1. I'm Back
 
@@ -95,7 +95,7 @@ Slim Shady, 2001
 I’m blew out from this blunt (*sighs*) fuck
 --------------------------------------------------------------
 
-2. Lova game
+2. Love game
 
 [Verse 1: Eminem]
 Something's burnin', I can't figure out what (out what)
