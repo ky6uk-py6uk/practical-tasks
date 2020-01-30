@@ -1,1 +1,2 @@
 I graduated from Nizhny Novgorod State Technical University named after Alekseev.
+I am currently taking a course in Git.
