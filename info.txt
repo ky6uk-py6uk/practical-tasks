@@ -1,0 +1,10 @@
+Desktop IDEs
+The Eclipse IDE is famous for our Java Integrated Development 
+Environment (IDE), but we have a number of pretty cool IDEs, 
+including our C/C++ IDE, JavaScript/TypeScript IDE, PHP IDE, 
+and more.
+
+You can easily combine multiple languages support and other 
+features into any of our default packages, and the Eclipse
+ Marketplace allows for virtually unlimited customization and 
+extension.
