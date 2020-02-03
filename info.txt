@@ -8,3 +8,6 @@ You can easily combine multiple languages support and other
 features into any of our default packages, and the Eclipse
  Marketplace allows for virtually unlimited customization and 
 extension.
+
+IDE Platforms
+Create the next generation of developer tooling with our extensible platforms. Use your imagination to build services and tools that can be assembled into new IDEs or packages tailored to your identity. We provide multiple platforms to build plug-ins for desktop tools, distributed services used by cloud IDEs, and browser interfaces. You can then publish plug-ins to our Eclipse Marketplace of 1000s.
